@@ -219,6 +219,8 @@ graph TD
   * **政府資料開放平台** 提供高品質的開放資料。
   * 所有參與本次競賽的工作人員與評審。
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 <!-- end list -->
 
 
