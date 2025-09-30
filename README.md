@@ -1,10 +1,5 @@
 # ttfddata-innovation-2024
 
-好的，這份 README 將會以專業、清晰且 welcoming (歡迎貢獻) 的風格撰寫。它會包含專案的目標、特色、系統架構 (使用您之前提供的 Mermaid 圖)、如何安裝與貢獻等，讓任何看到這個專案的人都能快速上手。
-
-我會使用 Markdown 格式，您可以直接複製貼上到 GitHub 的 `README.md` 檔案中。
-
------
 
 ````markdown
 # 臺東縣消防局智慧服務助理 (TTFD Smart Service Assistant)
@@ -15,7 +10,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
----
+````
 
 ## 目錄
 
@@ -41,6 +36,8 @@
 ## 🏗️ 系統架構圖
 
 本系統採用分層式架構，確保各服務模組的獨立性與可擴展性。
+
+
 
 ```mermaid
 graph TD
