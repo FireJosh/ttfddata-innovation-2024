@@ -1,16 +1,16 @@
 # ttfddata-innovation-2024
 
 
-````markdown
+
 # 臺東縣消防局智慧服務助理 (TTFD Smart Service Assistant)
 
-本專案為 **「113年政府機關資料創新應用競賽」** 臺東縣消防局參賽作品，隸屬於 `ttfd-civic-tech-2025` 公民科技計畫。
+本專案為 **「113年政府機關資料創新應用競賽」** 臺東縣消防局參賽作品。
 
 我們致力於運用大型語言模型 (LLM) 與 AI 技術，打造一個24小時不中斷的LINE官方帳號服務助理。旨在簡化民眾申辦消防相關業務的流程、即時查詢案件進度，並提供智慧化的法規與常見問題解答，從而提升公共服務的效率與可及性。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-````
+
 
 ## 目錄
 
